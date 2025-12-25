@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457307876415",
+    "project_id": "laovista-3feaa",
+    "storage_bucket": "laovista-3feaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457307876415:android:02b120bfbecfb2e693dc8a",
+        "android_client_info": {
+          "package_name": "com.example.laovista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7e9uxUhRV1x5jFiuHV7DQIWk0T1VjMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
