@@ -1,16 +1,14 @@
-# laovista
+# 📱 LAOVISTA Mobile: Resident Companion App
 
-A new Flutter project.
+This is the mobile frontend of the **LAOVISTA Virtual Information System**, built specifically for the residents of the Municipality of Laoac using **Flutter**.
 
-## Getting Started
+## 🚀 Key Features
+- **Smart Document Requests:** Request Barangay certificates and permits directly from the app.
+- **Incident Reporting:** Built-in reporting system with camera integration for community concerns.
+- **Real-time Announcements:** Notifications for municipal and barangay-level news.
+- **Resident Profile:** Secure digital identity for authenticated municipal services.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Framework:** Flutter (Dart)
+- **Backend Communication:** RESTful API (Laravel Backend)
+- **UI Components:** Material 3 Design
